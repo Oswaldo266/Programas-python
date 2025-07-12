@@ -1,0 +1,2 @@
+Historial de operaciones realizadas:
+1. Suma: 1.0 + 1.0 = 2.0
